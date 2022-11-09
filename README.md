@@ -4,5 +4,6 @@ A disciplina é ministrada pelo professor Marcio Espindola Freire Maia.
 Equipe - CliniVet:
 
 Ítalo Rodrigues Nascimento
+
 Mateus Gonçalves Loiola
 
